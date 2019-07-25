@@ -16,5 +16,5 @@
   ],
   "revocationList": "https://raw.githubusercontent.com/certificados/BlockcertsTest/master/revocation-list-testnet.json",
   "type": "Profile",
-  "introductionUrl": "https://apicerts.000webhostapp.com/apicerts/public/certAdd"
+  "introductionUrl": "http://apicerts.000webhostapp.com/apicerts/public/certAdd"
 }
